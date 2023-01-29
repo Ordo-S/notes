@@ -18,21 +18,21 @@
     "quinary-content": "#504945",
     "timeline-text-secondary-color": "#a89984",
     "timeline-highlights-color": "#00000030",
-    "reaction-row-button-selected-bg-color": "#689d6a",
+    "reaction-row-button-selected-bg-color": "#adda78",
     "menu-selected-color": "#f9cc6c",
     "icon-button-color": "#f9cc6c",
     "accent": "#fd6883",
     "alert": "#a8a9eb",
     "username-colors": [
       "#cc241d",
-      "#98971a",
+      "#689d6a",
       "#d79921",
       "#458588",
-      "#b16286",
-      "#689d6a",
+      "#85dacc",
+      "#adda78",
       "#a89984",
       "#d65d0e"
     ],
-    "avatar-background-colors": ["#458588", "#b16286", "#689d6a"]
+    "avatar-background-colors": ["#458588", "#b16286", "#adda78"]
   }
 }
