@@ -20,7 +20,7 @@
     "timeline-highlights-color": "#00000030",
     "reaction-row-button-selected-bg-color": "#689d6a",
     "menu-selected-color": "#f9cc6c",
-    "icon-button-color": "#fd6883",
+    "icon-button-color": "##f9cc6c",
     "accent": "#fd6883",
     "alert": "#a8a9eb",
     "username-colors": [
