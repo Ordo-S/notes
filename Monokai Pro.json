@@ -1,5 +1,5 @@
 {
-  "name": "Monokai Pro 4",
+  "name": "Monokai Pro 5",
   "is_dark": true,
   "colors": {
     "accent-color": "#fff1f3",
@@ -9,7 +9,7 @@
     "roomlist-background-color": "#221f22",
     "roomlist-text-color": "#fff1f3",
     "roomlist-text-secondary-color": "#fff1f3",
-    "roomlist-highlights-color": "#72696a",
+    "roomlist-highlights-color": "#fd6883",
     "roomlist-separator-color": "#2D2a2e",
     "timeline-background-color": "#2D2a2e",
     "timeline-text-color": "#fff1f3",
