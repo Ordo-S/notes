@@ -1,9 +1,9 @@
 {
-  "name": "Monokai Pro 8",
+  "name": "Monokai Pro 9",
   "is_dark": true,
   "colors": {
     "accent-color": "#fff1f3",
-    "primary-color": "#221f22",
+    "primary-color": "#f38d70",
     "warning-color": "#fd6883",
     "sidebar-color": "#2d2a2e",
     "roomlist-background-color": "#221f22",
@@ -31,7 +31,7 @@
       "#85dacc",
       "#adda78",
       "#a89984",
-      "#d65d0e"
+      "#f38d70"
     ],
     "avatar-background-colors": ["#458588", "#b16286", "#adda78"]
   }
